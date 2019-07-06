@@ -1,0 +1,26 @@
+{
+  "name": "mobilegrid-analysis",
+  "version": "0.0.1",
+  "description": "Analysis scheme for mobile grid app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikkunaEdu/mobilegrid-analysis.git"
+  },
+  "keywords": [
+    "data-analysis",
+    "emergency"
+  ],
+  "author": "Diego Correa T:",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikkunaEdu/mobilegrid-analysis/issues"
+  },
+  "homepage": "https://github.com/ikkunaEdu/mobilegrid-analysis#readme",
+  "dependencies": {
+    "aws-amplify": "^1.1.29"
+  }
+}
