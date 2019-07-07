@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/ikkunaEdu/mobilegrid-analysis#readme",
   "dependencies": {
-    "aws-amplify": "^1.1.29"
+    "apollo-boost": "^0.4.3",
+    "aws-amplify": "^1.1.29",
+    "graphql": "^14.4.2",
+    "graphql-tag": "^2.10.1"
   }
 }
